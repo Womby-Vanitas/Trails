@@ -29,7 +29,6 @@ void setup() {
 }
 
 void loop() {
-  delay(300);
   int L = digitalRead(L_Line);
   int C = digitalRead(C_Line);
   int R = digitalRead(R_Line);
@@ -39,7 +38,7 @@ void loop() {
   }
 
   // 직진
-  if ( L == LOW && R == LOW ) {          // 0 1 0
+  if ( L == HIGH && R == HIGH ) {          // 0 1 0
     motor_role(HIGH, HIGH);
   }
 
@@ -63,12 +62,10 @@ void loop() {
 
 void motor_role(int R_motor, int L_motor) {
   // 오른쪽 모터 제어
-  delay(300);
   digitalWrite(RightMotor_1_pin, R_motor);
   digitalWrite(RightMotor_2_pin, !R_motor);
 
   // 왼쪽 모터 제어
-  delay(300);
   digitalWrite(LeftMotor_3_pin, L_motor);
   digitalWrite(LeftMotor_4_pin, !L_motor);
 
