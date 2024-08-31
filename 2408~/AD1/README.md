@@ -1,7 +1,7 @@
 # Team project (1) : Omega Pioneers
 Basic auto driving system : used *Arduino UNO*, *line tracer*, *Ultrasound sensor*
 
-~[Source code](https://github.com/Womby-Vanitas/inos/tree/main/AD1)~
+~[Source code](https://github.com/Womby-Vanitas/inos/blob/main/AD1/Final.ino)~
 
 ![image](https://github.com/user-attachments/assets/7c3c9f18-cabe-46ec-b5eb-3841e97885ce)
 ![image](https://github.com/user-attachments/assets/d233e0d9-bf27-419f-b046-dd06f037afa8)
