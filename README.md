@@ -3,7 +3,7 @@
 
 ## What we did :
 1. [Group study seminar](https://github.com/Womby-Vanitas/Trails/tree/main/~2409)
-2. Implement autonomous system of driving objects
+2. [Implement autonomous system of driving objects]()
 
 ## How we process our projects
-...
+I run [Notion]()!
