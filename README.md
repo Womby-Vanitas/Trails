@@ -6,4 +6,4 @@
 2. [Implement autonomous system of driving objects (basic 1)](https://github.com/Womby-Vanitas/Trails/tree/main/2408~/AD1)
 
 ## How we process our projects
-I run [Notion]()!
+I run [Notion](https://github.com/Womby-Vanitas/Trails/tree/main/2408~/Notion)!
